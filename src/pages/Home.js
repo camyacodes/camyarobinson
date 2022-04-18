@@ -1,7 +1,11 @@
 import React from 'react'
+import TypeWriter from '../components/TypeWriter'
 
 export default function Home() {
   return (
-    <div>Home</div>
+    <div>
+     <TypeWriter></TypeWriter>
+    </div>
+    
   )
 }
