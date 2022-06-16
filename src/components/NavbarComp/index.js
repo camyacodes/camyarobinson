@@ -6,11 +6,11 @@ import "./style.css";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { faBars } from "@fortawesome/free-solid-svg-icons";
 
-export default function Nav_bar() {
+export default function NavbarComp() {
 	return (
 		<nav className="navbar">
 			<div className="logo">
-				<Link to="/"> &lt;/&gt; | CamyaCodes </Link>
+				<Link id="logo" to="/"> &lt;/&gt; | Camya Robinson </Link>
 			</div>
 
 			<ul className="nav-links">

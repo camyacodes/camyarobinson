@@ -1,5 +1,12 @@
+:root {
+	--blue: #3aafa9 ;
+	--white: #ffffff;
+  }
+
 html,
 body {
 	margin: 0;
+	height: 100%;
+	width: 100%;
 	font-family: 'Bebas Neue', cursive !important;
 }

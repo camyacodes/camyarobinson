@@ -1,0 +1,21 @@
+body {
+    background-image: url('../../assets/homepage-image.jpg');
+}
+
+.homebox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.title {
+    color: white;
+    font-size: 8vw;
+}
+
+.description {
+    color: white;
+    font-size: 3vw;
+}
