@@ -26,10 +26,10 @@ export default function NavbarComp() {
 						<Link to="/projects">Projects</Link>
 					</li>
 					<li>
-						<Link to="/contact">Contact</Link>
+						<Link to="/resume">Resume</Link>
 					</li>
 					<li>
-						<Link to="/resume">Resume</Link>
+						<Link to="/contact">Contact Me</Link>
 					</li>
 				</div>
 			</ul>

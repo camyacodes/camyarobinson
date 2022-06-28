@@ -1,6 +1,7 @@
  
 img {
   filter: brightness(75%);
+  max-width: 100%;
 }
 
 .project-card {
