@@ -10,7 +10,7 @@ export default function NavbarComp() {
 	return (
 		<nav className="navbar">
 			<div className="logo">
-				<Link id="logo" to="/camyarobinson"> &lt;/&gt; | Camya Robinson </Link>
+				<Link id="logo" to="/"> &lt;/&gt; | Camya Robinson </Link>
 			</div>
 
 			<ul className="nav-links">
