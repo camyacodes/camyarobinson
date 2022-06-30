@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import NavbarComp from "./components/NavbarComp";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
