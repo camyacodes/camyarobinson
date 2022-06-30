@@ -15,7 +15,7 @@ function App() {
         <NavbarComp></NavbarComp>
         <div className='content'>
           <Switch>
-            <Route exact path='/'>
+            <Route exact path='/camyarobinson'>
               <Home></Home>
             </Route>
             <Route path='/about'>
