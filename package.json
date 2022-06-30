@@ -1,7 +1,7 @@
 {
 	"name": "coding-portfolio",
 	"version": "0.1.0",
-	"homepage": "http://camyacodes.github.io/",
+	"homepage": "http://camyacodes.github.io/camyarobinson",
 	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.1.1",
