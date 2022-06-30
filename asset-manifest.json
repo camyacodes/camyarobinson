@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/camyarobinson/static/css/main.a7258ead.css",
-    "main.js": "/camyarobinson/static/js/main.f4d39613.js",
-    "static/js/787.dd376143.chunk.js": "/camyarobinson/static/js/787.dd376143.chunk.js",
-    "static/media/turtle_about_pic.jpg": "/camyarobinson/static/media/turtle_about_pic.09c5be1615f114745059.jpg",
-    "static/media/niques-eats.herokuapp.com_.png": "/camyarobinson/static/media/niques-eats.herokuapp.com_.64bfd0b8804db8b4097e.png",
-    "static/media/no-gear-fitness.herokuapp.com_.png": "/camyarobinson/static/media/no-gear-fitness.herokuapp.com_.bea32c3080521ff7bfca.png",
-    "static/media/employee-tracker-screenshot.png": "/camyarobinson/static/media/employee-tracker-screenshot.c0f93b6ac6d04d67553f.png",
-    "static/media/homepage-image.jpg": "/camyarobinson/static/media/homepage-image.feb3a0a9f20794466796.jpg",
-    "static/media/camyacodes.github.io_weather-dashboard_test.png": "/camyarobinson/static/media/camyacodes.github.io_weather-dashboard_test.8c7717dd2a4c5fd20cc0.png",
-    "static/media/camyacodes.github.io_code-quiz1.png": "/camyarobinson/static/media/camyacodes.github.io_code-quiz1.c0c6c29a0b6b8f033293.png",
-    "index.html": "/camyarobinson/index.html",
-    "main.a7258ead.css.map": "/camyarobinson/static/css/main.a7258ead.css.map",
-    "main.f4d39613.js.map": "/camyarobinson/static/js/main.f4d39613.js.map",
-    "787.dd376143.chunk.js.map": "/camyarobinson/static/js/787.dd376143.chunk.js.map"
+    "main.css": "/static/css/main.97f75b83.css",
+    "main.js": "/static/js/main.5392876e.js",
+    "static/js/787.dd376143.chunk.js": "/static/js/787.dd376143.chunk.js",
+    "static/media/turtle_about_pic.jpg": "/static/media/turtle_about_pic.09c5be1615f114745059.jpg",
+    "static/media/niques-eats.herokuapp.com_.png": "/static/media/niques-eats.herokuapp.com_.64bfd0b8804db8b4097e.png",
+    "static/media/no-gear-fitness.herokuapp.com_.png": "/static/media/no-gear-fitness.herokuapp.com_.bea32c3080521ff7bfca.png",
+    "static/media/employee-tracker-screenshot.png": "/static/media/employee-tracker-screenshot.c0f93b6ac6d04d67553f.png",
+    "static/media/homepage-image.jpg": "/static/media/homepage-image.feb3a0a9f20794466796.jpg",
+    "static/media/camyacodes.github.io_weather-dashboard_test.png": "/static/media/camyacodes.github.io_weather-dashboard_test.8c7717dd2a4c5fd20cc0.png",
+    "static/media/camyacodes.github.io_code-quiz1.png": "/static/media/camyacodes.github.io_code-quiz1.c0c6c29a0b6b8f033293.png",
+    "index.html": "/index.html",
+    "main.97f75b83.css.map": "/static/css/main.97f75b83.css.map",
+    "main.5392876e.js.map": "/static/js/main.5392876e.js.map",
+    "787.dd376143.chunk.js.map": "/static/js/787.dd376143.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7258ead.css",
-    "static/js/main.f4d39613.js"
+    "static/css/main.97f75b83.css",
+    "static/js/main.5392876e.js"
   ]
 }
