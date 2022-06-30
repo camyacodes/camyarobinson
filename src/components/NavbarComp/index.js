@@ -26,7 +26,8 @@ export default function NavbarComp() {
 						<Link to="/projects">Projects</Link>
 					</li>
 					<li>
-						<Link to="/resume">Resume</Link>
+						<a href="https://docs.google.com/document/d/1E_8EfWvmSEhAuKhG10p--NLZXQPikqxXa-l4CzsUcg8/edit?usp=sharing" target="_blank">Resume</a>
+						
 					</li>
 					<li>
 						<Link to="/contact">Contact Me</Link>
