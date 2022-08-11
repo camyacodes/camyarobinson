@@ -26,9 +26,6 @@ function App() {
             <Route path='/contact'>
               <Contact></Contact>
             </Route>
-            <Route path='/resume'>
-              <Resume></Resume>
-            </Route>
           </Switch>
         </div>
       </div>

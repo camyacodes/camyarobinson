@@ -1,5 +1,4 @@
 import React from "react";
-import TypeWriter from "../../components/TypeWriter";
 import "./Home.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
