@@ -9,9 +9,8 @@ export default function Contact() {
 		<div className="contact-section">
 			<h1 className="text-white display-1">Get In Touch</h1>
 			<h2 className="mb-4 text-white">
-				I'm currently looking for full-time Software Development opportunities!
-				If you know of any positions available, if you have any questions, or if
-				you just want to say hi, please feel free to reach out to me!
+				I'm currently looking for full-time Software Development opportunities.
+				If you are hiring or know of any positions available please feel free to reach out to me!
 			</h2>
 			<div class="contact-links">
 				<ul className="contact-list">

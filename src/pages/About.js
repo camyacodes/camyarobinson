@@ -25,13 +25,7 @@ export default function About() {
 								programming language, R, and from then on I was hooked!{" "}
 								<br></br> <br></br> I am passionate about coding because I enjoy
 								solving real world problems and having the solution right at my
-								fingertips, waiting to be written. I am a full stack developer,
-								but I gravitate more towards the front-end. Front-end
-								development challenges me creatively to style applications that
-								are not only aesthetically pleasing, but functional and
-								efficient. My desire to create the best user experience coupled
-								with my back-end skills means I can fully actualize any vision
-								for any project that I may have. I am committed to constantly
+								fingertips, waiting to be written.  I am committed to constantly
 								learning and excited to continue refining my skills with the
 								right company.
 							</p>
@@ -42,3 +36,10 @@ export default function About() {
 		</div>
 	);
 }
+
+// Front-end
+// 								development challenges me creatively to style applications that
+// 								are not only aesthetically pleasing, but functional and
+// 								efficient. My desire to create the best user experience coupled
+// 								with my back-end skills means I can fully actualize any vision
+// 								for any project that I may have.

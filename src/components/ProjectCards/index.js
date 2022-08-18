@@ -1,7 +1,7 @@
 import React from "react";
 import niques from "../../assets/niques-eats.herokuapp.com_.png";
-import weather from "../../assets/camyacodes.github.io_weather-dashboard_test.png";
-import quiz from "../../assets/camyacodes.github.io_code-quiz1.png";
+// import weather from "../../assets/camyacodes.github.io_weather-dashboard_test.png";
+// import quiz from "../../assets/camyacodes.github.io_code-quiz1.png";
 import fitness from "../../assets/no-gear-fitness.herokuapp.com_.png";
 import employee from "../../assets/employee-tracker-screenshot.png";
 
@@ -38,20 +38,6 @@ export default function ProjectCards() {
 				</div>
 			</div>
 			<div class="card col-sm-6 p-0 project-card">
-				<img class="card-img-top eats" src={weather} alt="Card image cap" />
-				<div class="card-body">
-					<h5 class="card-title">Weather Dashboard</h5>
-					<p class="card-text">
-						This web application allows users to see the weather outlook for
-						multiple cities. It provides the current weather and a 5 day
-						forecast.
-					</p>
-					<p class="card-text">
-					<a class="btn btn-secondary" href="https://camyacodes.github.io/weather-dashboard/" role="button" target="_blank">Visit Site</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/weather-dashboard" role="button" target="_blank">GitHub Repo</a>
-					</p>
-				</div>
-			</div>
-			<div class="card col-sm-6 p-0 project-card">
 				<img
 					class="card-img-top employee"
 					src={employee}
@@ -64,18 +50,6 @@ export default function ProjectCards() {
 					</p>
 					<p class="card-text">
 					<a class="btn btn-secondary" href="https://drive.google.com/file/d/1na6jlH68PWwrLA7c1tLm_MictMdoprtQ/view" role="button" target="_blank">View Demo</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/employee-tracker-app" role="button" target="_blank">GitHub Repo</a>
-					</p>
-				</div>
-			</div>
-			<div class="card col-sm-6 p-0 project-card">
-				<img class="card-img-top" src={quiz} alt="Card image cap" />
-				<div class="card-body">
-					<h5 class="card-title">Code Quiz</h5>
-					<p class="card-text">
-					This web app is a timed quiz on JavaScript fundamentals that stores high scores so that users can gauge their progress compared to others.
-					</p>
-					<p class="card-text">
-					<a class="btn btn-secondary" href="https://camyacodes.github.io/code-quiz/" role="button" target="_blank">Visit Site</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/code-quiz" role="button" target="_blank">GitHub Repo</a>
 					</p>
 				</div>
 			</div>

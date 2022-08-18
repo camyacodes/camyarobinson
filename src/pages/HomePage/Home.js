@@ -8,11 +8,10 @@ export default function Home() {
 		<div className="homebox">
 			<h1 className="title">Hi there, I'm Camya!</h1>
 			<h2 className="description">
-				A Full Stack Developer with a Front End Focus, passionate about creating beautiful
+				A Full Stack Developer passionate about creating 
 				applications.
       </h2>
-      <h1></h1>
-      <h4>HTML | CSS | BOOTSTRAP | JAVASCRIPT | NODE | EXPRESS | REACT | MONGODB | GRAPHQL </h4>
+      <h4>HTML | CSS | JAVASCRIPT | NODE.JS | EXPRESS.JS | REACT | MONGODB | GRAPHQL | SQL/MySQL </h4>
 			<div>
 				<a href="https://www.linkedin.com/in/camya-r-b19ab1b3/" target="_blank">
 					<FontAwesomeIcon
