@@ -4,6 +4,7 @@ import niques from "../../assets/niques-eats.herokuapp.com_.png";
 // import quiz from "../../assets/camyacodes.github.io_code-quiz1.png";
 import fitness from "../../assets/no-gear-fitness.herokuapp.com_.png";
 import employee from "../../assets/employee-tracker-screenshot.png";
+import portfolio from "../../assets/portfoliositescreenshot.png"
 
 import "./style.css";
 
@@ -20,20 +21,20 @@ export default function ProjectCards() {
 						application utilizes the MERN stack.
 					</p>
 					<p class="card-text">
-					<a class="btn btn-secondary" href="https://niques-eats.herokuapp.com/" role="button" target="_blank">Visit Site</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/niques_eats" role="button" target="_blank">GitHub Repo</a>
+					<a class="btn btn-secondary" href="https://drive.google.com/file/d/1dPq8m-y_NC9txXZplgzXhDgAqoAihkxo/view?usp=sharing" role="button" target="_blank">Live Demo</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/niques_eats" role="button" target="_blank">GitHub Repo</a>
 					</p>
 				</div>
 			</div>
 			<div class="card col-sm-6 p-0 project-card">
-				<img class="card-img-top" src={fitness} alt="Card image cap" />
+				<img class="card-img-top" src={portfolio} alt="Card image cap" />
 				<div class="card-body">
-					<h5 class="card-title">No Gear Fitness</h5>
+					<h5 class="card-title">Portfolio Website</h5>
 					<p class="card-text">
-					An application where users are able to create their own workout routines that they can then add to their workout scheduler and keep track of their fitness goals/journey. 
+					A live site displaying my coding portfolio. 
 
 					</p>
 					<p class="card-text">
-					<a class="btn btn-secondary" href="https://no-gear-fitness.herokuapp.com/" role="button" target="_blank">Visit Site</a> <a class="btn btn-secondary" href="https://github.com/Dapr1nc3/workout-app" role="button" target="_blank">GitHub Repo</a>
+					<a class="btn btn-secondary" href="https://camyacodes.github.io/camyarobinson/" role="button" target="_blank">Visit Site</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/camyarobinson" role="button" target="_blank">GitHub Repo</a>
 					</p>
 				</div>
 			</div>
@@ -49,7 +50,7 @@ export default function ProjectCards() {
 					A command-line application used to manage a company's employee database.
 					</p>
 					<p class="card-text">
-					<a class="btn btn-secondary" href="https://drive.google.com/file/d/1na6jlH68PWwrLA7c1tLm_MictMdoprtQ/view" role="button" target="_blank">View Demo</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/employee-tracker-app" role="button" target="_blank">GitHub Repo</a>
+					<a class="btn btn-secondary" href="https://drive.google.com/file/d/1EbPelo9oTSIc4W9YH0quBUAriEszRTmy/view?usp=sharing" role="button" target="_blank">Live Demo</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/employee-tracker-app" role="button" target="_blank">GitHub Repo</a>
 					</p>
 				</div>
 			</div>
@@ -62,10 +63,10 @@ export default function ProjectCards() {
 				<div class="card-body">
 					<h5 class="card-title">Team Profile Generator</h5>
 					<p class="card-text">
-					A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+					A Node.js command-line application that takes in information about employees on a software engineering team and generates a webpage that displays summaries for each person.
 					</p>
 					<p class="card-text">
-					<a class="btn btn-secondary" href="https://drive.google.com/file/d/1huLw2PG6YuEC7COt1YBaotNpjyz3Fs_E/view" role="button" target="_blank">View Demo</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/team-profile-generator" role="button" target="_blank">GitHub Repo</a>
+					<a class="btn btn-secondary" href="https://drive.google.com/file/d/1T5EJF5ZMHfdiYBuwffOat1nw5WzF-oLp/view?usp=sharing" role="button" target="_blank">Live Demo</a> <a class="btn btn-secondary" href="https://github.com/camyacodes/team-profile-generator" role="button" target="_blank">GitHub Repo</a>
 					</p>
 				</div>
 			</div>
