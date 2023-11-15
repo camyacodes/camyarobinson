@@ -2,10 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-// import logo from "../../assets/CC_logo2.jpg";
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// import { faBars } from "@fortawesome/free-solid-svg-icons";
-
 export default function NavbarComp() {
 	return (
 		<nav className="navbar">

@@ -37,9 +37,3 @@ export default function About() {
 	);
 }
 
-// Front-end
-// 								development challenges me creatively to style applications that
-// 								are not only aesthetically pleasing, but functional and
-// 								efficient. My desire to create the best user experience coupled
-// 								with my back-end skills means I can fully actualize any vision
-// 								for any project that I may have.
