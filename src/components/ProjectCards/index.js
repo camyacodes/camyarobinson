@@ -24,15 +24,15 @@ export default function ProjectCards() {
           <p class="card-text">
             <a
               class="btn btn-secondary"
-              href="https://drive.google.com/file/d/1dPq8m-y_NC9txXZplgzXhDgAqoAihkxo/view?usp=sharing"
+              href="https://niqueseats-8c1c3659f187.herokuapp.com/"
               role="button"
               target="_blank"
             >
-              Live Demo
+              Visit Site
             </a>{" "}
             <a
               class="btn btn-secondary"
-              href="https://github.com/camyacodes/niques_eats"
+              href="https://github.com/camyacodes/niques-eats"
               role="button"
               target="_blank"
             >
@@ -163,5 +163,3 @@ export default function ProjectCards() {
     </div>
   );
 }
-
-
