@@ -6,6 +6,7 @@ import fitness from "../../assets/no-gear-fitness.herokuapp.com_.png";
 import employee from "../../assets/employee-tracker-screenshot.png";
 import portfolio from "../../assets/portfoliositescreenshot.png";
 import movieapp from "../../assets/what2watchscreenshot.png";
+import templifypic from "../../assets/screenshot.png"
 
 import "./style.css";
 
@@ -33,6 +34,35 @@ export default function ProjectCards() {
             <a
               class="btn btn-secondary"
               href="https://github.com/camyacodes/niques-eats"
+              role="button"
+              target="_blank"
+            >
+              GitHub Repo
+            </a>
+          </p>
+        </div>
+      </div>
+      <div class="card col-sm-6 p-0 project-card">
+        <img class="card-img-top" src={templifypic} alt="Card image cap" />
+        <div class="card-body">
+          <h5 class="card-title">Templify</h5>
+          <p class="card-text">
+            An application that allows users to select from a variety of
+            pre-designed templates, customize them to their liking, and generate
+            an email with a subject line ready for use.
+          </p>
+          <p class="card-text">
+            <a
+              class="btn btn-secondary"
+              href="https://camyacodes.github.io/templify/"
+              role="button"
+              target="_blank"
+            >
+              Visit Site
+            </a>{" "}
+            <a
+              class="btn btn-secondary"
+              href="https://github.com/camyacodes/templify"
               role="button"
               target="_blank"
             >
@@ -131,7 +161,7 @@ export default function ProjectCards() {
           </p>
         </div>
       </div>
-      <div class="card col-sm-6 p-0 project-card">
+      {/* <div class="card col-sm-6 p-0 project-card">
         <img class="card-img-top" src={movieapp} alt="Card image cap" />
         <div class="card-body">
           <h5 class="card-title">What 2 Watch</h5>
@@ -159,7 +189,7 @@ export default function ProjectCards() {
             </a>
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
